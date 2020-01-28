@@ -1,0 +1,1 @@
+C:\Users\santhosh.agumamidi\Documents\DevOpsTest\mslearn-tailspin-spacegame-web\.sonarqube\out\0

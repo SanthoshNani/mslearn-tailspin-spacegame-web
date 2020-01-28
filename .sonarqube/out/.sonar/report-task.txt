@@ -1,0 +1,7 @@
+organization=santhoshnani
+projectKey=SanthoshNani_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.4183
+dashboardUrl=https://sonarcloud.io/dashboard?id=SanthoshNani_mslearn-tailspin-spacegame-web
+ceTaskId=AW_pIsbiGuUKD4gRbsLR
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW_pIsbiGuUKD4gRbsLR
